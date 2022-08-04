@@ -8,7 +8,7 @@ By Sarah Abdelbar
 1.	Dataset
 For this project, I chose the dataset from Ford GoBike website. The data had entries for all of 2018 bike trips. The data initially included 16 columns and 2,023,431 rows. The following steps were taken to prepare the data for the Exploratory analysis.
  
-•	A copy of the dataset was created to apply the necessary modifications
+•	A copy of the dataset was created to apply the necessary modifications \newline
 •	ID column was converted to object instead of float
 •	Start and end time columns were converted to timestamp
 •	New Columns were created for the month, day and hour, as well as for the members age
